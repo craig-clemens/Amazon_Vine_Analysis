@@ -6,3 +6,4 @@ Collecting review data from Amazon for sports-related products, the ETL process 
 
 ## Results
 
+![Paid_Unpaid](https://github.com/craig-clemens/Amazon_Vine_Analysis/blob/main/Resources/Totalpaid_Unpaid.PNG)
